@@ -37,7 +37,7 @@ Make sure you have these installed on your system before you start:
    ```bash
    quickshell -c shell.qml (If this is not working, then write complete path of the file)
    // OR
-   qs -c ~/home/music-widget/shell.qml
+   qs -c /home/music-widget/shell.qml
    ```
 
 ## 📂 What are these files?
